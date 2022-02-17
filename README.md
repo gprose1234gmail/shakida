@@ -38,6 +38,8 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 <h4> Generate Session via Repl: </h4>    
 <p><a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+    
+    https://github.com/gprose1234gmail/shakida.git
 
 <h4> Generate Session via Telegram StringGen Bot: </h4>    
 <p><a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
