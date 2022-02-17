@@ -42,6 +42,11 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 <h4> Generate Session via Telegram StringGen Bot: </h4>    
 <p><a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
+### Easiest Way To Deploy On Heroku 
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/FUCKTHEATTITUDE/YUKKI.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+    
 </details>
 
 <details>
